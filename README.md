@@ -31,7 +31,7 @@ La solución sigue un **ciclo Agile + UX**: definición de personas, prototipos 
 
 ```bash
 ├── ux/                    # Carpeta con entregables UX
-│   ├── personas.md        # Documento de personas y sus necesidades
+│   ├── personas        # Documento de personas y sus necesidades
 │   ├── prototipos/        # Bocetos y prototipos (Low-Fi, Mid-Fi, Hi-Fi, interactivo)
 │   └── pruebas/           # Resultados y feedback de 2 pruebas de usabilidad
 │       ├── Prueba_1-Pedir comida.mp4     # Informe Prueba 1
