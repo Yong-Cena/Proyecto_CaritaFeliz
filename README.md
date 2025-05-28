@@ -1,7 +1,7 @@
 cat > README.md << 'EOF'
 # ☕ ITAM Café: Proyecto final
 
-**Fecha de entrega:** Mañana, 12:59 PM
+**Por Valeria Andrade Maqueda & Axel Castro Lara
 
 ---
 
