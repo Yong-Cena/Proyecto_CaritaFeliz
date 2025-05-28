@@ -40,5 +40,5 @@ La solución sigue un **ciclo Agile + UX**: definición de personas, prototipos 
 ├── backlog/               # Product Backlog y artefactos ágil
 │   └── product-backlog.md # Tabla de historias de usuario priorizadas y estimadas
 ├── presentation/          # Presentación final (slides)
-│   └── slides.pdf         # Archivo PDF de las diapositivas (8 slides)
+│   └── ADSI_PresentaciónFinal.pdf # Archivo PDF de las diapositivas (8 slides)
 └── README.md              # Este archivo
