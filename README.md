@@ -1,12 +1,12 @@
 cat > README.md << 'EOF'
-# ☕ ITAM Café: Herramienta Web de Pedido
+# ☕ ITAM Café: Proyecto final
 
 **Fecha de entrega:** Mañana, 12:59 PM
 
 ---
 
 ## 🌟 Descripción del Proyecto
-ITAM Café es una aplicación web diseñada para que estudiantes de ITAM puedan:
+ITAM Carita Feliz Café es una aplicación web diseñada para que estudiantes de ITAM puedan:
 - Explorar un **menú claro** dividido en diferentes secciones como desayunos, comida, bebidas y snacks.
 - Ver un **tiempo estimado de espera** en la pantalla de inicio
 - Acumular y consultar **puntos de lealtad** (15 % de descuento cada 10 pedidos)
