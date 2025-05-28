@@ -38,7 +38,7 @@ La solución sigue un **ciclo Agile + UX**: definición de personas, prototipos 
 │       ├── prueba1.md     # Informe Prueba 1
 │       └── prueba2.md     # Informe Prueba 2
 ├── backlog/               # Product Backlog y artefactos ágil
-│   └── product-backlog.md # Tabla de historias de usuario priorizadas y estimadas
+│   └── product-backlog.pdf # Tabla de historias de usuario priorizadas y estimadas
 ├── presentation/          # Presentación final (slides)
 │   └── ADSI_PresentaciónFinal.pdf # Archivo PDF de las diapositivas (8 slides)
 └── README.md              # Este archivo
