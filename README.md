@@ -35,8 +35,8 @@ La solución sigue un **ciclo Agile + UX**: definición de personas, prototipos 
 │   ├── personas.md        # Documento de personas y sus necesidades
 │   ├── prototipos/        # Bocetos y prototipos (Low-Fi, Mid-Fi, Hi-Fi, interactivo)
 │   └── pruebas/           # Resultados y feedback de 2 pruebas de usabilidad
-│       ├── prueba1.md     # Informe Prueba 1
-│       └── prueba2.md     # Informe Prueba 2
+│       ├── Prueba_1-Pedir comida.mp4     # Informe Prueba 1
+│       └── Prueba_2-Revisar pedido.mp4   # Informe Prueba 2
 ├── backlog/               # Product Backlog y artefactos ágil
 │   └── product-backlog.pdf # Tabla de historias de usuario priorizadas y estimadas
 ├── presentation/          # Presentación final (slides)
