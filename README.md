@@ -1,5 +1,5 @@
 cat > README.md << 'EOF'
-# ☕ ITAM Café: Proyecto final
+# ☕  Proyecto final ADSI
 
 Por Valeria Andrade Maqueda & Axel Castro Lara
 
