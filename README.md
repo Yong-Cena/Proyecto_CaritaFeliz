@@ -1,19 +1,22 @@
-# Proyecto Final: Herramienta Web de Pedido de Café ITAM
+cat > README.md << 'EOF'
+# ☕ ITAM Café: Herramienta Web de Pedido
 
-
-
-
-## Descripción
-Repositorio con todos los entregables del proyecto final del curso ADSI 2025. Aquí encontrarás:
-
-- Entregables UX (personas, prototipos, pruebas)
-- Product Backlog detallado
-- Presentación final de clase
-- Documentación para revisión del repositorio
+**Fecha de entrega:** Mañana, 12:59 PM
 
 ---
 
-## Criterios de calificación
+## 🌟 Descripción del Proyecto
+ITAM Café es una aplicación web diseñada para que estudiantes de ITAM puedan:
+- Explorar un **menú claro** dividido en diferentes secciones como desayunos, comida, bebidas y snacks.
+- Ver un **tiempo estimado de espera** en la pantalla de inicio
+- Acumular y consultar **puntos de lealtad** (15 % de descuento cada 10 pedidos)
+- Completar su orden con un **click de pago** y pagar en caja  
+
+La solución sigue un **ciclo Agile + UX**: definición de personas, prototipos (papel → Low-Fi → Hi-Fi → interactivo), pruebas de usabilidad e iteraciones basadas en feedback.
+
+---
+
+## 🎯 Criterios de Calificación
 
 | Entregable               | Puntos |
 |--------------------------|-------:|
@@ -24,6 +27,7 @@ Repositorio con todos los entregables del proyecto final del curso ADSI 2025. Aq
 
 ---
 
+## 📁 Estructura del Repositorio
 ## Estructura del repositorio
 
 ```bash
