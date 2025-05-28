@@ -28,7 +28,6 @@ La solución sigue un **ciclo Agile + UX**: definición de personas, prototipos 
 ---
 
 ## 📁 Estructura del Repositorio
-## Estructura del repositorio
 
 ```bash
 ├── ux/                    # Carpeta con entregables UX
