@@ -1,7 +1,7 @@
 cat > README.md << 'EOF'
 # ☕ ITAM Café: Proyecto final
 
-**Por Valeria Andrade Maqueda & Axel Castro Lara
+Por Valeria Andrade Maqueda & Axel Castro Lara
 
 ---
 
